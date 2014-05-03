@@ -1,0 +1,19 @@
+{
+  "name": "hisrc",
+  "main": "hisrc.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Voles/hisrc",
+  "authors": [
+    "Niels Dequeker <niels.dequeker@gmail.com>"
+  ],
+  "description": "HiSRC fork to work with Bower",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
